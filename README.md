@@ -20,7 +20,7 @@ Blog Explorer is a Flutter application that fetches and displays a list of blogs
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/blog_explorer.git
+    [git clone https://github.com/yourusername/blog_explorer.git](https://github.com/AjayRauniyar/blog_explorer)
     ```
 
 2. Navigate to the project directory:
